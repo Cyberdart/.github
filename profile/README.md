@@ -1,4 +1,4 @@
-# Cyberdart 🛸
+# Cyberdart
 
 Work in progress, stay tuned...
 
